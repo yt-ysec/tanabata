@@ -1,0 +1,3 @@
+#coding: shift_jis
+
+print('éµó[ÇÕÇ®Ç¢ÇµÇ¢Ç≈Ç∑Ç©ÅH')

@@ -1,2 +1,3 @@
-print('今日は七夕です！')
+for i in range(20):
+    print(i, 'ALOHA!')
 
